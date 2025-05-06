@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "readsavefiles.h": "c",
+        "stdio.h": "c",
+        "login.h": "c",
+        "stdbool.h": "c",
+        "time.h": "c",
+        "algorithm.h": "c",
+        "stdlib.h": "c",
+        "user.h": "c",
+        "admin.h": "c",
+        "log.h": "c"
+    }
+}
